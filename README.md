@@ -1,6 +1,6 @@
 ### Hi, there is a passionate frontend developer 👋
 
-🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a web developer<br>💬 You can communicate through this email matiasaquinozc@gmail.com<br>⚡ Fun fact, I am studying at the Continental University, studying 8 semester of Software Engineer.
+🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a web developer<br>💬 You can communicate through this email matiasaquinocastro121@gmail.com<br>⚡ Fun fact, I am studying at the Continental University, studying 8 semester of Software Engineer.
 
 # 💻 Tech Stack:
 
